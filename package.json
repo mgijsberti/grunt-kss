@@ -27,7 +27,7 @@
         "test": "grunt test"
     },
     "dependencies": {
-        "kss": "https://github.com/mgijsberti/kss-node",
+        "kss": "git+https://github.com/mgijsberti/kss-node",
         "node-sass": "^1.2.2"
     },
     "devDependencies": {
